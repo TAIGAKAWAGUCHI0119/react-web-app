@@ -31,7 +31,7 @@ function App() {
   const classes = useStyles();
   return (
     <>
-    <h1 style={{"color": "red"}}>Hello, world</h1>
+    <h1 style={{"color": "red"}}>Hello, world from Japan</h1>
     <TableContainer component={Paper}>
       <Table className={classes.table} aria-label="simple table">
         <TableHead>
