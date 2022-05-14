@@ -32,6 +32,7 @@ function App() {
   return (
     <>
     <h1 style={{"color": "red"}}>Hello, world from Japan</h1>
+    <h2>The calorie table</h2>
     <TableContainer component={Paper}>
       <Table className={classes.table} aria-label="simple table">
         <TableHead>
